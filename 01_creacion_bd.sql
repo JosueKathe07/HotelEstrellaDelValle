@@ -1,4 +1,5 @@
 /* ============================================================
+Este es un cambio minimo para la rama vistas
    PROYECTO: Hotel "Estrella del Valle"
    MOTOR   : SQL Server / SQL Server Express
    OBJETIVO: BD empresarial para reservaciones, clientes y pagos
@@ -14,7 +15,11 @@
      - Triggers
      - CTEs
      - Backups y RESTORE (comentados)
+
 -- Línea desde MAIN
+
+
+-- Línea desde FEATURE/VISTAS
 
    ============================================================ */
 

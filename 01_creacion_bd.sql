@@ -15,7 +15,12 @@ Este es un cambio minimo para la rama vistas
      - Triggers
      - CTEs
      - Backups y RESTORE (comentados)
+
+-- Línea desde MAIN
+
+
 -- Línea desde FEATURE/VISTAS
+
    ============================================================ */
 
 ---------------------------------------------------------------
